@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 19bbfcac5772c4f43967417e38d08ecf
+timeCreated: 1524557637
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameManager: {instanceID: 0}
+  - TablePrefab: {instanceID: 0}
+  - InsertionSortVideo: {instanceID: 0}
+  - BubbleSortVideo: {instanceID: 0}
+  - QuickSortVideo: {instanceID: 0}
+  - SortBox: {fileID: 1392858335310758, guid: 70b3d101626cf034c86a874161e730e8, type: 2}
+  - SortBoxTrigger: {fileID: 1010575549733850, guid: 4abb6087592c05b4c8b996cac0b55c50,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
